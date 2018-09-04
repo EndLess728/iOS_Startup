@@ -1,0 +1,31 @@
+import UIKit
+
+// Variable declaration using var
+
+var myAge : Int = 32
+myAge = 33
+
+// using let (constant)
+
+let myName : String = "Mantu"
+
+let mySurName : String = "Kumar"
+
+let myAgeInTenYears = myAge + 10
+
+let myFullName = "\(myName) \(mySurName)"
+
+let myDetails = "\(myFullName) ,\(myAge)"
+
+
+// Data types
+
+let wholeNumber : Int = 12
+
+let text : String = "abc"
+
+let booleans : Bool = true
+
+let floatingPointerNumber : Float = 1.3
+
+let double : Double = 3.1435
