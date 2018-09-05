@@ -1,0 +1,19 @@
+// Switch Statement
+
+import UIKit
+
+var str = "b"
+
+switch str {
+    
+case "a" :
+    print("is an A")
+    
+case "b", "c": // in case you wanna check two contions at once
+    print("is a B or C")
+    
+default :
+    print("Nothing")
+    
+}
+
